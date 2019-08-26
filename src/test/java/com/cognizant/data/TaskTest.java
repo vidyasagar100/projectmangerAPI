@@ -1,7 +1,6 @@
 package com.cognizant.data;
 
-import static org.junit.jupiter.api.Assertions.*;
 
-class TaskTest {
+public class TaskTest {
 
 }
